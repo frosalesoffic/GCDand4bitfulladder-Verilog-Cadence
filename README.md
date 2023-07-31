@@ -1,5 +1,5 @@
 # GCDand4bitfulladder-Verilog-Cadence
-Cration of a GCD and 4 Bit Full adder using tools like Cadence to simulate Verilog code. 
+Creation of a GCD and 4 Bit Full adder using tools like Cadence to simulate Verilog code. 
 Fernando Rosales
 
 862086644
